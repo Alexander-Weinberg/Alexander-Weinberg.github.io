@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a research professional at the University of Chicago Department of Economics. I work for Professor Simon Mongey. I received my B.A. from the University of Chicago in 2019.
+I am a research professional at the University of Chicago Department of Economics, working for Professor Simon Mongey. 
+---
+
+**CV**: [Click here to download](files/Weinberg_Alexander_CV_Feb2021.pdf)
+
+
+**Email**: `weinberga at uchicago dot edu`
