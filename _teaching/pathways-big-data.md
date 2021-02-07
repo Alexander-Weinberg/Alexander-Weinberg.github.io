@@ -8,7 +8,9 @@ date: 2021-07-01
 location: "Chicago, USA"
 ---
 
-Taught introductory data science to high school students. Applications to study of income inequality in the United States.
+Taught introductory data science to high school students. 
+
+Applications to study of income inequality in the United States.
 
 Topics:
 
