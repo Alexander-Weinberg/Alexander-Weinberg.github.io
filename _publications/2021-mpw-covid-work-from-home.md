@@ -12,12 +12,14 @@ Using data from O\*NET, we construct two measures of an occupation’s potential
 
 
 [PDF](files/paper1.pdf)
+
 [Code](https://github.com/simonmongey/Mongey_Pilossoph_Weinberg)
+
 [NBER Working Paper](https://www.nber.org/papers/w27085
 )
 
-
-[Fivethirtyeight](https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/)
-[NYTimes](https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/)
-[WSJ](https://www.wsj.com/articles/a-bleak-landscape-for-lowest-paid-workers-11588952358)
+**Coverage**:
+[Fivethirtyeight](https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/),
+[NYTimes](https://fivethirtyeight.com/features/the-americans-who-suffered-when-the-economy-shut-down-are-also-in-more-danger-as-it-reopens/), 
+[WSJ](https://www.wsj.com/articles/a-bleak-landscape-for-lowest-paid-workers-11588952358), 
 [Reuters](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-REMOTEWORK/xlbpgbrljvq/index.html)
