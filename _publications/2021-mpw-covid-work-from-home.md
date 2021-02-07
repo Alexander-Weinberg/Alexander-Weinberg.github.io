@@ -1,6 +1,6 @@
 ---
 title: "Which workers bear the burden of social distancing?"
-collection: research
+collection: publications
 permalink: /publication/2021-mpw-covid-work-from-home
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-02-04
