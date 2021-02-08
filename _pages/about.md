@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a research professional at the University of Chicago Department of Economics, working for Professor Simon Mongey. 
----
 
-**CV**: [Click here to download](files/Weinberg_Alexander_CV_Feb2021.pdf)
+I am a research professional at the University of Chicago Department of Economics, working for Professor Simon Mongey. 
 
 
 **Email**: `weinberga at uchicago dot edu`
