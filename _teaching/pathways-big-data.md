@@ -20,4 +20,4 @@ Topics:
 
 Notebooks:
 
-- Python basics: [lecture 1](files/Intro to Data Science - Python Basics.ipynb)
+- Python basics: [lecture 1](files/notebook1.ipynb)
