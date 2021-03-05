@@ -16,7 +16,7 @@ Topics:
 - Data cleaning and analysis using Pandas.
 - Visualization of different kinds of quantitative data.
 - Using the CPS, students replicate figures from Autor and Acemoglu (2011); Binder and Bound (2019); and Heathcote, Perri, and Violante (2010).
-- Download CPS data: [here](files/cpspanel.zip).
+- Download CPS data: [here](../files/cpspanel.zip).
 
 Notebooks:
 
