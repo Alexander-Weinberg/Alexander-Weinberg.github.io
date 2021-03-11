@@ -12,7 +12,7 @@ excerpt: '[PDF](files/Mongey_Pilossoph_Weinberg_Work_from_home_May_2020.pdf),
 [WSJ](https://www.wsj.com/articles/a-bleak-landscape-for-lowest-paid-workers-11588952358), 
 [Reuters](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-REMOTEWORK/xlbpgbrljvq/index.html)'
 date: 2021-02-04
-venue: Under revision at Journal of Economic Inequality 
+venue: Forthcoming at Journal of Economic Inequality 
 paperurl: 
 citation: 
 ---
