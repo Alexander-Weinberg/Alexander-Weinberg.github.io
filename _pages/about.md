@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research professional at the University of Chicago Department of Economics, working for Professor Simon Mongey. 
+I am a PhD Student at the University of Chicago Department of Economics.
 
 
 **Email**: `weinberga at uchicago dot edu`

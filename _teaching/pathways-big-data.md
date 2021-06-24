@@ -20,4 +20,4 @@ Topics:
 
 Notebooks:
 
-- Python basics: [lecture 1](https://github.com/Alexander-Weinberg/Alexander-Weinberg.github.io/blob/master/files/notebook1.ipynb)
+- Python basics: [lecture 1](https://github.com/Alexander-Weinberg/Alexander-Weinberg.github.io/blob/master/files/Intro to Data Science - Python Basics.ipynb)
